@@ -1,0 +1,8 @@
+# Mac
+.DS_Store
+
+# .d.ts
+typings/**
+
+# Visual Studio Code
+.vscode/**
