@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-mime",
+  "version": "0.0.1",
+  "description": "A plugin for performing conversion of extensions and MIME",
+  "cordova": {
+    "id": "cordova-plugin-mime",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyun1/cordova-plugin-mime.git"
+  },
+  "keywords": [
+    "cordova",
+    "mime",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "zyun1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zyun1/cordova-plugin-mime/issues"
+  },
+  "homepage": "https://github.com/zyun1/cordova-plugin-mime#readme"
+}
